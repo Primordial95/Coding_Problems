@@ -13,7 +13,7 @@ import org.openqa.selenium.support.Color;
  * Eg: Suppose argument passed is : Dec 2024
  * we have to print Dec 2024 with no of holidays and also dates of weekends
  * and also all the months before Dec 2024 to current month with no of holidays for each month
- * 
+ * used Css selector only
  */
 
 public class CodingChallenge1 {
